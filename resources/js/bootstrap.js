@@ -1,3 +1,6 @@
+import '@tabler/core/dist/js/tabler-theme.js';
+import '@tabler/core/dist/js/tabler.js';
+
 import axios from 'axios';
 window.axios = axios;
 
